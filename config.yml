@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://aquamarine-figolla-6cf40b.netlify.app/"
 languageCode: en-us
 title: Demo for Hugo
 theme: PaperMod
